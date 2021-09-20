@@ -1,7 +1,8 @@
 # Spam_Classifier
-Spam Classifier using machine learning and make web app using Flask and deploy into Heroku
+Spam Classifier using machine learning and make web app using Flask and deploy into Heroku. <br><br>
+A Spam detector detects spam messages or emails by understanding text content in order that you’ll only receive notifications about messages or emails that are vital to you.
 
-## Check Out the live Demo:-  
+## Live Link :-  
 https://spam-detector-o.herokuapp.com/
 
 ## Screenshot of working project <br> ## 
@@ -15,3 +16,7 @@ https://spam-detector-o.herokuapp.com/
 <br>
 
 ### Novelty : ###
+
+- Automaton that creates a reliable lifelong machine learning solution by switching classification mechanisms according to the current learning set. <br>
+- The proposed solution can protect newly created web pages. In the initial phase—when nonspam messages typical for the web page are not well known—the system uses dedicated algorithms to protect the pages with accuracy that exceeds 0.9 <br>
+- All elements of the classification process were tested on real data from spam traps and common known web services. <br>
